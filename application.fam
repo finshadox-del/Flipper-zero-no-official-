@@ -1,1 +1,0 @@
-{\n    "name": "Flipper Zero Walkie Talkie Listener",\n    "version": "1.0.0",\n    "description": "A complete application for listening to walkie-talkies via BLE, Sub-GHz, and Bluetooth.",\n    "author": "finshadox-del",\n    "license": "MIT"\n}
